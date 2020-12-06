@@ -16,11 +16,17 @@ Another better suggestion is to use the INLPG algorithm we proposed
 If you use this code for your research, please cite our papers.
 
 @article{sun109nonlocal,
+
   title={Nonlocal patch similarity based heterogeneous remote sensing change detection},
+  
   author={Sun, Yuli and Lei, Lin and Li, Xiao and Sun, Hao and Kuang, Gangyao},
+  
   journal={Pattern Recognition},
+  
   volume={109},
+  
   pages={107598},
+  
   publisher={Elsevier}
   
 If you have any queries, please do not hesitate to contact me (yulisun@mail.ustc.edu.cn ).

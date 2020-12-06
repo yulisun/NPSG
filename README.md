@@ -1,6 +1,8 @@
 # NPSG
 Nonlocal Patch Similarity based Graph (NPSG) for heterogeneous remote sensing change detection
+
 Code: NPSG - PR 2021
+
 This is a test program for the NPSG. NPSG is based on the image self-similarity. 
 The relationship between the target patch and its similar patches can be regarded 
 as the structure of this target patch, which is quite well preserved across the different types

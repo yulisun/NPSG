@@ -10,9 +10,9 @@ of imaging modality, then it can be used to build the relationship between heter
 
 The computational time of NPSG is relatively long, to reduce the
 computational complexity, we recommend using a larger opt.delt_s and
-opt.delt_p, which of course has an impact on accuracy.
+opt.delt_p.
 
-Another better suggestion is to use the INLPG algorithm we proposed
+Another suggestion is to use the INLPG algorithm we proposed
 (https://github.com/yulisun/INLPG) or the IRG-McS algorithm (https://github.com/yulisun/IRG-McS).
 
 If you use this code for your research, please cite our papers.

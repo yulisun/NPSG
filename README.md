@@ -11,10 +11,7 @@ computational complexity, we recommend using a larger opt.delt_s and
 opt.delt_p, which of course has an impact on accuracy.
 
 Another better suggestion is to use the INLPG algorithm we proposed
-(https://github.com/yulisun/INLPG) or the IRG-McS algorithm
-.(https://github.com/yulisun/IRG-McS).
-If you have any queries, please do not hesitate to contact me (yulisun@mail.ustc.edu.cn ).
-===================================================
+(https://github.com/yulisun/INLPG) or the IRG-McS algorithm (https://github.com/yulisun/IRG-McS).
 
 If you use this code for your research, please cite our papers.
 
@@ -25,5 +22,6 @@ If you use this code for your research, please cite our papers.
   volume={109},
   pages={107598},
   publisher={Elsevier}
-}
-===================================================
+  
+If you have any queries, please do not hesitate to contact me (yulisun@mail.ustc.edu.cn ).
+

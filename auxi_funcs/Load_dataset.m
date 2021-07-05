@@ -62,7 +62,7 @@ elseif strcmp(dataset,'California') == 1
     subplot(133);imshow(Ref_gt,[]);title('Refgt')
     image_t1 = (image_t1 - min(image_t1(:)))./(max(image_t1(:))-min(image_t1(:)));
     image_t2 = (image_t2 - min(image_t2(:)))./(max(image_t2(:))-min(image_t2(:)));
-elseif strcmp(dataset,'California') == 1
+elseif strcmp(dataset,'Texas') == 1
      load('Cross-sensor-Bastrop-data.mat')
      opt.type_t1 = 'optical';
      opt.type_t2 = 'optical'; 

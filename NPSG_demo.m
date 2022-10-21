@@ -70,6 +70,7 @@ figure; plot(FPR_fw,TPR_fw);
 hold on ; plot(FPR_bw,TPR_bw);
 hold on ; plot(FPR_fusion,TPR_fusion);
 legend('fw','bw','fusion')
+title('ROC curve')
 
 [AUC_fw, Ddist_fw] = AUC_Diagdistance(TPR_fw, FPR_fw);
 [AUC_bw, Ddist_bw] = AUC_Diagdistance(TPR_bw, FPR_bw);

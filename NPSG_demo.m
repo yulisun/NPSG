@@ -55,8 +55,8 @@ if strcmp(opt.remove_out,'on')
 end 
 %% fuse DI_fw and DI_bw
 DI_fusion = fuse_DI(DI_fw,DI_bw,opt);
-%% display result
-figure;
+%% display result. If the DI display is dark, you can adjust the value display range.
+figure; 
 subplot(131);imshow(DI_fw,[]);title('DIfw')
 subplot(132);imshow(DI_bw,[]);title('DIbw')
 subplot(133);imshow(DI_fusion,[]);title('DIfusion')

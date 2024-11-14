@@ -1,5 +1,5 @@
 # NPSG
-Nonlocal Patch Similarity based Graph (NPSG) for heterogeneous remote sensing change detection
+[PR 2021] Nonlocal Patch Similarity based Graph (NPSG) for heterogeneous remote sensing change detection
 
 Code: NPSG - PR 2021
 
